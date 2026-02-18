@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="slime-soccer-pfp-512x512" src="https://github.com/user-attachments/assets/9711cbe2-78f6-46bd-9ad2-21890d6a89a3" />
+<img width="512" height="512" alt="slime-soccer-pfp-512x512" src="https://github.com/user-attachments/assets/9711cbe2-78f6-46bd-9ad2-21890d6a89a3"/>
 # 🎮 Slime Soccer Sideswipe
 
 
